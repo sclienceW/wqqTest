@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"分支二") ;
+    NSLog(@"在github上更新的");
    
 }
 
