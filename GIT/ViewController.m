@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"分支一") ;
+    NSLog(@"分支二") ;
    
 }
 
